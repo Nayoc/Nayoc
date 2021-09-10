@@ -1,0 +1,4 @@
+repository "2DTest_01@ssl://grimdemons@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/15651779803" 
+     
